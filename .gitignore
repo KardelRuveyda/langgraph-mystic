@@ -1,0 +1,5 @@
+.env
+dream_data.json
+.chroma
+.idea
+__pycache__/
