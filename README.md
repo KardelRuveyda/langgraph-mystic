@@ -67,7 +67,7 @@ Once the project is running, you can interact with the bot to get dream interpre
 
 ## Graph
 
-![image](https://github.com/user-attachments/assets/c40308ff-5462-41e7-bb40-33e648544fa8)
+![graph](https://github.com/user-attachments/assets/74139a33-06dd-4fc6-b83b-a3427004509a)
 
 
 ## Contributing
