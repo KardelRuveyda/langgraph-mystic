@@ -86,4 +86,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**langchain-mystic:** Dive deeper into the magic with LangChain's advanced capabilities. 🌙🔮
+**langgraph-mystic:** Dive deeper into the magic with LangChain's advanced capabilities. 🌙🔮
